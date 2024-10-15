@@ -84,6 +84,10 @@ Este repositorio contiene una colección de herramientas esenciales para princip
      ```bash
      python3 rsactftool.py --publickey ./public.pem --decrypt ./ciphertext
      ```
+### 5. **[FactorDB](http://www.factordb.com/)**
+   - **Descripción**: Factoriza el valor N con el fin de obtener valores p y q.
+
+
 
 ---
 
@@ -113,7 +117,7 @@ Este repositorio contiene una colección de herramientas esenciales para princip
      ```bash
      exiftool imagen.jpg
      ```
-
+     
 ---
 
 ## Reversing
@@ -268,6 +272,10 @@ Este repositorio contiene una colección de herramientas esenciales para princip
      ```bash
      shodan search "webcamxp"
      ```
+
+### 4. **[Whatsmyname](https://whatsmyname.app/)**
+   - **Descripción**: Busqueda de cuentas activas por medio de un nombre de usuario.
+
 
 ---
 
