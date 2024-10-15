@@ -99,6 +99,7 @@ Este repositorio contiene una colección de herramientas esenciales para princip
 
 ### 2. **[Volatility](https://www.volatilityfoundation.org/)**
    - **Descripción**: Herramienta de análisis de imágenes de memoria RAM.
+   - **Instalación**: [Instalación](https://medium.com/@n0r37urn/volatility-2-supera-los-retos-con-la-forma-m%C3%A1s-sencilla-de-instalarlo-567228d092e1)
    - **Comando de uso**:
      ```bash
      vol.py -f memoria.dmp windows.pslist
@@ -117,6 +118,8 @@ Este repositorio contiene una colección de herramientas esenciales para princip
      ```bash
      exiftool imagen.jpg
      ```
+
+
      
 ---
 
@@ -225,7 +228,8 @@ Este repositorio contiene una colección de herramientas esenciales para princip
      ```bash
      pip install geopy
      ```
-
+### 4. **[Más herramientas](https://medium.com/@n0r37urn/zoom-in-and-analyze-reverse-image-tools-for-geoint-you-need-to-know-a5804c4966cb)
+   - **Descripción**: Algunas herrmientas para inteligencia de Imagenes y Geolocalización.
 ---
 
 ## Redes
